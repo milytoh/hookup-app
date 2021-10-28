@@ -9,9 +9,9 @@
 
 ![Screenshot_20211028-013654](https://user-images.githubusercontent.com/61844423/139167704-16ca63cc-790e-41a8-b542-0037e05b0ca2.png)
 
-##sing Up page
+## sing Up page
 ![Screenshot_20211028-013521](https://user-images.githubusercontent.com/61844423/139167724-ff548db5-6704-4655-a7fc-3daf06d84d06.png)
 
-##loging page
+## loging page
 ![Screenshot_20211028-013508](https://user-images.githubusercontent.com/61844423/139167756-22833480-957a-4c79-92cc-0d87832511cd.png)
 
